@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "e4ed9224b2503d02969008923fbb9104"
+	name: "PerezHurtado"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		6F3CB38E18ED5D0F: 1
+	}
+	started: {
+		6F3CB38E18ED5D0F: 1762125513795L
+		6F010E22CD886969: 1762125513795L
+		0000000000000001: 1762125513795L
+		744084D7C7EA8A6C: 1762125513795L
+	}
+	completed: {
+		6F3CB38E18ED5D0F: 1762125513795L
+		6F010E22CD886969: 1762125513795L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

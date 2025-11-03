@@ -1,0 +1,40 @@
+[22:50:51.741][INFO]: Successfully injected RecipeFS file system
+[22:50:51.812][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:50:51.817][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:50:51.821][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[22:50:52.643][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:50:52.644][INFO]: - 'aether' at version '1.19.2-1.4.2-forge'
+[22:50:52.644][INFO]: - 'aquaculture' at version '1.19.2-2.4.17'
+[22:50:52.644][INFO]: - 'crafttweaker' at version '10.1.56'
+[22:50:52.644][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[22:50:52.645][INFO]: - 'gamestages' at version '11.1.4'
+[22:50:52.645][INFO]: - 'itemstages' at version '5.1.4'
+[22:51:06.920][INFO]: Started loading scripts for loader 'initialize'
+[22:51:07.636][INFO]: Compiling and executing scripts
+[22:51:07.686][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[22:51:07.860][INFO]: Execution for loader 'initialize' completed successfully
+[22:51:21.204][INFO]: Started loading scripts for loader 'tags'
+[22:51:21.241][INFO]: Compiling and executing scripts
+[22:51:21.260][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[22:51:21.273][INFO]: Execution for loader 'tags' completed successfully
+[22:51:27.013][INFO]: Started loading scripts for loader 'crafttweaker'
+[22:51:27.055][INFO]: Compiling and executing scripts
+[22:51:27.564][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:51:27.568][INFO]: Loading file 'Cisco.zs' with priority 0
+[22:51:27.597][INFO]: Hello world!
+[22:51:27.601][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_chestplate' that outputs: '<item:dreadsteel:dreadsteel_chestplate>'
+[22:51:27.601][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_helmet' that outputs: '<item:dreadsteel:dreadsteel_helmet>'
+[22:51:27.601][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_boots' that outputs: '<item:dreadsteel:dreadsteel_boots>'
+[22:51:27.602][INFO]: Adding 'minecraft:smithing' recipe, with name: 'crafttweaker:dreadsteel_leggings' that outputs: '<item:dreadsteel:dreadsteel_leggings>'
+[22:51:27.602][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_ingot_recipe' that outputs: '<item:dreadsteel:dreadsteel_ingot>'
+[22:51:27.602][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_scythe_recipe' that outputs: '<item:dreadsteel:dreadsteel_scythe>'
+[22:51:27.602][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:dreadsteel_shield_recipe' that outputs: '<item:dreadsteel:dreadsteel_shield>'
+[22:51:27.603][INFO]: Removing "minecraft:crafting" recipes with modid: "dreadsteel"
+[22:51:27.605][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:amnesia_scroll' that outputs: '<item:skilltree:amnesia_scroll>'
+[22:51:27.606][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:true_dragons_breath' that outputs: '<item:cisco_mod:true_dragons_breath>'
+[22:51:27.609][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:rogue_eye' that outputs: '<item:endrem:rogue_eye>.withTag({Damage: 0})'
+[22:51:27.609][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:undead_soul' that outputs: '<item:endrem:undead_soul>'
+[22:51:27.609][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:demonium_ingot_recipe' that outputs: '<item:cisco_mod:demonium_ingot>'
+[22:51:27.609][INFO]: Adding 'minecraft:crafting' recipe, of type: "shapeless", with name: 'crafttweaker:frigidium_ingot_recipe' that outputs: '<item:cisco_mod:frigidiumingot>'
+[22:51:27.609][INFO]: Execution for loader 'crafttweaker' completed successfully
+[22:51:27.611][INFO]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

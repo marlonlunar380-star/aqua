@@ -1,0 +1,73 @@
+[03Nov2025 00:03:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Silverfish
+[03Nov2025 00:03:17.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:04:32.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was slain by Silverfish
+[03Nov2025 00:04:34.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Silverfish
+[03Nov2025 00:04:45.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to jesus]
+[03Nov2025 00:04:52.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported Granvera_ to primordial]
+[03Nov2025 00:05:23.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Zombie
+[03Nov2025 00:05:23.331] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Nov2025 00:05:23.331] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[03Nov2025 00:05:23.331] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[03Nov2025 00:05:23.331] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[03Nov2025 00:05:23.331] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Nov2025 00:05:24.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Silverfish
+[03Nov2025 00:05:33.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to Granvera_]
+[03Nov2025 00:05:47.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ withered away whilst fighting Zombie
+[03Nov2025 00:05:51.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was shot by Skeleton
+[03Nov2025 00:05:55.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:06:09.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ has made the advancement [Close Quarters]
+[03Nov2025 00:07:03.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Zombie
+[03Nov2025 00:07:09.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ withered away whilst fighting Zombie
+[03Nov2025 00:07:14.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to jesus]
+[03Nov2025 00:07:14.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Zombie
+[03Nov2025 00:07:16.235] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Nov2025 00:07:16.236] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Nov2025 00:07:16.236] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Nov2025 00:07:17.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Zombie
+[03Nov2025 00:07:19.831] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 netherite_scrap
+[03Nov2025 00:07:19.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 gold_block
+[03Nov2025 00:07:19.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 wisdom_scroll
+[03Nov2025 00:07:19.832] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_block
+[03Nov2025 00:07:23.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:07:51.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was slain by Zombie
+[03Nov2025 00:08:22.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:08:29.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported Granvera_ to primordial]
+[03Nov2025 00:08:51.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was slain by Zombie
+[03Nov2025 00:08:59.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported Granvera_ to primordial]
+[03Nov2025 00:09:20.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was shot by Skeleton
+[03Nov2025 00:09:28.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported Granvera_ to primordial]
+[03Nov2025 00:09:50.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Far From Perfect]
+[03Nov2025 00:09:59.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was shot by Stray
+[03Nov2025 00:10:14.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to jesus]
+[03Nov2025 00:10:47.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was shot by Skeleton
+[03Nov2025 00:10:47.580] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[03Nov2025 00:10:47.580] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[03Nov2025 00:10:47.581] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 air
+[03Nov2025 00:10:47.581] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 air
+[03Nov2025 00:10:47.581] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[03Nov2025 00:10:51.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was killed by Zombie using magic
+[03Nov2025 00:10:57.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was killed by Zombie using magic
+[03Nov2025 00:11:38.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Zombie
+[03Nov2025 00:11:44.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ has reached the goal [Primal Catalyst]
+[03Nov2025 00:11:52.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Zombie
+[03Nov2025 00:11:56.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was slain by Wither Skeleton
+[03Nov2025 00:12:50.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Zombie
+[03Nov2025 00:13:12.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus has made the advancement [Cover Me with Diamonds]
+[03Nov2025 00:13:48.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Granvera_ moved wrongly!
+[03Nov2025 00:13:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was shot by Stray
+[03Nov2025 00:13:57.634] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[03Nov2025 00:13:58.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ was slain by Wither Skeleton
+[03Nov2025 00:14:01.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: primordial moved wrongly!
+[03Nov2025 00:14:45.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Granvera_ has reached the goal [Perfectly Shaped Rock]
+[03Nov2025 00:15:43.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Skeleton
+[03Nov2025 00:15:55.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:16:14.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial has reached the goal [Primal Catalyst]
+[03Nov2025 00:16:20.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was slain by Skeleton
+[03Nov2025 00:16:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Zombie
+[03Nov2025 00:16:29.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to Granvera_]
+[03Nov2025 00:16:42.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: primordial was shot by Stray
+[03Nov2025 00:16:45.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported primordial to Granvera_]
+[03Nov2025 00:16:48.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: primordial moved wrongly!
+[03Nov2025 00:16:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
+[03Nov2025 00:17:07.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jesus was slain by Skeleton
+[03Nov2025 00:17:17.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [primordial: Teleported jesus to primordial]
